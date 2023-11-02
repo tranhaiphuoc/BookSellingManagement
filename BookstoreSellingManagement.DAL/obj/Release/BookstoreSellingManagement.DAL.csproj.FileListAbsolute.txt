@@ -1,0 +1,8 @@
+D:\Coding\WebForm\Repos\BookstoreSellingManagement.DAL\bin\Release\BookstoreSellingManagement.DAL.dll
+D:\Coding\WebForm\Repos\BookstoreSellingManagement.DAL\bin\Release\BookstoreSellingManagement.DAL.pdb
+D:\Coding\WebForm\Repos\BookstoreSellingManagement.DAL\bin\Release\SubSonic.dll
+D:\Coding\WebForm\Repos\BookstoreSellingManagement.DAL\obj\Release\BookstoreSellingManagement.DAL.csproj.AssemblyReference.cache
+D:\Coding\WebForm\Repos\BookstoreSellingManagement.DAL\obj\Release\BookstoreSellingManagement.DAL.csproj.CoreCompileInputs.cache
+D:\Coding\WebForm\Repos\BookstoreSellingManagement.DAL\obj\Release\BookstoreSellingManagement.DAL.csproj.CopyComplete
+D:\Coding\WebForm\Repos\BookstoreSellingManagement.DAL\obj\Release\BookstoreSellingManagement.DAL.dll
+D:\Coding\WebForm\Repos\BookstoreSellingManagement.DAL\obj\Release\BookstoreSellingManagement.DAL.pdb
